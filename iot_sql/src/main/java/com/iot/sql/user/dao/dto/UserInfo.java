@@ -17,6 +17,8 @@ public class UserInfo {
 	private char gender;
 	private int departNum;
 
+	private int departNum1;
+
 	public int getUserNum() {
 		return userNum;
 	}
